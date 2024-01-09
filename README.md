@@ -1,6 +1,10 @@
 # AlphaTrustNet
 Fraud Detection on Alpha Bitcoin Trust Network
 
+![alt text]([http://url/to/img.png](https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.jpg))
+
+Image credit: https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.jpg
+
 # Skills Used:
 - Neo4j
 - Cypher
