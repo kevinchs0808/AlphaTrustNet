@@ -1,7 +1,7 @@
 # AlphaTrustNet
 Fraud Detection on Alpha Bitcoin Trust Network
 
-![alt text]([http://url/to/img.png](https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.jpg))
+![bitcoin](https://github.com/kevinchs0808/AlphaTrustNet/assets/62506934/b1be26aa-3e74-41cb-bc5f-c299aad3667e)
 
 Image credit: https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.jpg
 
