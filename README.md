@@ -18,12 +18,18 @@ Image credit: https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.
   
 - DONE:
   - Graph Database Initialization
-  - Top 10 most potential Trustworthy / Fraudulent users based on accumulated given ratings
+  - Top 100 most potential Trustworthy / Fraudulent users based on average of given ratings [Naive Method]
+  - Top 20 users with highest / lowest number of received ratings
+  - Top 20 users who most / least frequently rate others
   - Overall Network Visualization
+  - Community Detection
+    - Modularity Optimization
+    - Label Propagation
+    - Louvain
     
 - TODO:
-  - How to detect whether some users are assigning fake ratings.
-  - Robust Fraud Detection: Detect fraudulent users based on more evidence
+  - Anomaly Detection in each user based on several features that fluctuate over time.
+  - Usage of node embeddings + machine Learning models for fraud detection
 
 ## Dataset Source + Related Work
 
