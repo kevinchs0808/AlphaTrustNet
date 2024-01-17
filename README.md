@@ -26,8 +26,10 @@ Image credit: https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.
     - Modularity Optimization
     - Label Propagation
     - Louvain
+  - Fairness & Goodness metrics for Feature Engineering
     
 - TODO:
+  - Community Visualization
   - Anomaly Detection in each user based on several features that fluctuate over time.
   - Usage of node embeddings + machine Learning models for fraud detection
 
