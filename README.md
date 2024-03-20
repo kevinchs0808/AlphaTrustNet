@@ -8,7 +8,7 @@ Image credit: https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.
 # Skills Used:
 - Neo4j
 - Cypher
-- Knowledge Graph
+- Graph Analytics
 - Docker
 - Network Visualization
 
@@ -27,11 +27,12 @@ Image credit: https://www.bitcoinsistemi.com/wp-content/uploads/2023/12/bitcoin.
     - Label Propagation
     - Louvain
   - Fairness & Goodness metrics for Feature Engineering
+  - Fraud Community Analysis
+  - Community Visualization
     
 - TODO:
-  - Community Visualization
+  - Individual Fraud Analysis
   - Anomaly Detection in each user based on several features that fluctuate over time.
-  - Usage of node embeddings + machine Learning models for fraud detection
 
 ## Dataset Source + Related Work
 
